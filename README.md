@@ -1,1 +1,0 @@
-# figma_var2
